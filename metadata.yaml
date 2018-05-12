@@ -1,0 +1,29 @@
+_repo: The-Recitation_18698
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Betts, George Herbert
+    birthdate: 1868
+    deathdate: 1934
+    gutenberg_agent_id: '6298'
+    url: http://www.gutenberg.org/2009/agents/6298
+description: ''
+gutenberg_issued: '2006-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Teaching'
+tableOfContents: The purposes of the recitation -- The method of the recitation --
+  The art of questioning -- Conditions necessary to a good recitation -- The assignment
+  of the lesson.
+title: The Recitation
+url: http://www.gutenberg.org/ebooks/18698
