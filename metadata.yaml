@@ -24,6 +24,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'LB'
 - !lcsh 'Teaching'
+- GITenberg
 tableOfContents: The purposes of the recitation -- The method of the recitation --
   The art of questioning -- Conditions necessary to a good recitation -- The assignment
   of the lesson.
